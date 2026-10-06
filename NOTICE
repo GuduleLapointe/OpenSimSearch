@@ -1,0 +1,12 @@
+OpenSimSearch
+
+A search module for OpenSimulator, started in 2008 by Fly-Man- and Melanie Thielker, then maintained by Kevin Cozens
+(https://github.com/kcozens/OpenSimSearch) until 2022. This repository is a fork of his, kept by Gudule Lapointe since 2026.
+
+License
+
+The original repository has no license file. Two of its files (webroot/query.php, webroot/wiredux/sites.php) carry the
+copyright and license header of the OpenSimulator project, where the module comes from. Following them, this fork distributes
+the module under the license of OpenSimulator (BSD 3-Clause, see LICENSE), and its own changes under the same terms.
+
+The other authors have not been asked to confirm. If you are one of them and want something changed, please open an issue.
