@@ -48,7 +48,7 @@ A DLL binary only works with the version it was built for. Most recent versions 
 - [GuduleLapointe/opensim-helpers](https://github.com/GuduleLapointe/opensim-helpers)
 - [GuduleLapointe/w4os](https://github.com/GuduleLapointe/w4os) ([WordPress plugin](https://wordpress.org/plugins/w4os-opensimulator-web-interface/))
 - [MTSGJ/opensim.helper](https://github.com/MTSGJ/opensim.helper)
-- the original webroot in this repository is deprecated and will be removed in the future
+- the original webroot was removed from this repository, it is in the tag `0.4+git20261005.d81ecde` and before
 
 See [http://opensimulator.org/wiki/Webinterface](http://opensimulator.org/wiki/Webinterface) for more.
 
